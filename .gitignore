@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Obsidian (if you reopen this as a vault)
+.obsidian/
+
+# Python (in case any tooling gets added back later)
+.venv/
+__pycache__/
+*.pyc
+
+# Local scratch / cleanup staging — should be emptied and deleted before first commit
+_DELETE_THIS_FOLDER/
+_EMPTY_FOLDERS_DELETE_MANUALLY/
+_Needs_Review/
+
+# Editor/OS cruft
+Thumbs.db
